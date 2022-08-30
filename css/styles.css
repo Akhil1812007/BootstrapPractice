@@ -1,0 +1,131 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+
+}
+#title{
+    background-color: chocolate;
+    color:white;
+    
+   
+}
+.row{
+    
+}
+h1{
+    font-family: 'Montserrat', sans-serif;
+    font-size:3.5rem;
+    line-height:1.5;
+    font-weight: bold;
+}
+h3{
+    font-family: 'Montserrat';
+    font-weight: bold;
+}
+p{
+    color: gray;
+}
+.container-fluid{
+    padding: 3% 15%;
+}
+.navbar-brand{
+    font-family: "Ubuntu";
+    font-weight: bold;
+    font-size: 2.5rem;
+    
+    
+}
+.navbar{
+    
+    padding-bottom:  5rem;
+}
+.nav-link{
+    font-size: 1.2rem;
+    font-family: 'Montserrat-Light';
+}
+.download-button{
+    margin: 5% 3% 5% 0;
+}
+.title-image{
+    width: 50%;
+    transform: rotate(30deg);
+    margin: 5%;
+    padding-left: 10px;
+    margin-bottom: 5%;
+    margin-left: 30%;
+    
+
+}
+#features{
+    padding: 7% 15%;
+}
+.feature-box{
+    text-align: center;
+    padding: 5%;
+}
+.icon{
+    margin: 5%;
+    color:green;
+}
+.icon:hover{
+    color: blue;
+}
+#testimonials{
+    
+    background-color: darkslategray;
+    color: white;
+    font-family: 'Montserrat';
+    text-align: center;
+}
+#testimonial-corousel{
+    padding: 7% 15%;
+}
+.testimonial-image{
+    margin: 5%;
+    border-radius: 100%;
+}
+#press{
+    background-color: darkslategray;
+    padding-bottom: 3%;
+    text-align: center;
+}
+.press-image{
+    width: 15%;
+    margin: 20px 20px 20px 15px;
+}
+.pricing-card{
+    padding:2%;
+}
+#pricing{
+    padding-top: 3%;
+    text-align: center;
+    font-family: 'Montserrat';
+    font-weight: bold;
+    background-color: coral;
+}
+.card-header{
+    background-color:deeppink;
+}
+.card-body{
+    background-color: burlywood;
+}
+.pricing-title{
+    margin: 2%;
+}
+#cta{
+    background-color:coral;
+    text-align: center;
+    padding-bottom: 3%;
+}
+#footer{
+    background-color:rgb(231, 224, 211);
+    padding: 5%;
+    text-align: center;
+    
+}
+.copyright{
+    color: white;
+}
+.ficon{
+    margin: 1%;
+}
